@@ -9,4 +9,4 @@ E: -> untuk findah ke local disk E
 cd python -> untuk masuk ke folder python
 
 python bilangan_ganjil_genap.py -> untuk menjalankan program
-![Screenshot (37)](https://user-images.githubusercontent.com/76439911/107218820-bca13780-6a42-11eb-8822-6bf8299d4480.png)
+![Screenshot (39)](https://user-images.githubusercontent.com/76439911/107220020-6df49d00-6a44-11eb-8009-236f06eb4593.png)
